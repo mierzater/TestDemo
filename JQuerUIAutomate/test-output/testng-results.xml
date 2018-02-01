@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13973" started-at="2018-01-03T19:43:54Z" finished-at="2018-01-03T19:44:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13973" started-at="2018-01-03T19:43:54Z" finished-at="2018-01-03T19:44:08Z">
+      <class name="com.jqueryui.automate.Button">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jqueryui.automate.Button@4cc0edeb]" name="setup" is-config="true" duration-ms="1984" started-at="2018-01-03T11:43:54Z" finished-at="2018-01-03T11:43:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testButton()[pri:0, instance:com.jqueryui.automate.Button@4cc0edeb]" name="testButton" duration-ms="6855" started-at="2018-01-03T11:43:56Z" finished-at="2018-01-03T11:44:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testButton -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jqueryui.automate.Button@4cc0edeb]" name="tearDown" is-config="true" duration-ms="5118" started-at="2018-01-03T11:44:03Z" finished-at="2018-01-03T11:44:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jqueryui.automate.Button -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
